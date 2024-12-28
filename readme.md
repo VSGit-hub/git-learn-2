@@ -1,6 +1,6 @@
 # Learn about git and github
 
-'''python
+```python
     for i in range(len(nums)):
     print(i)
-'''
+```
